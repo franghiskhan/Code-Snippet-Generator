@@ -1,6 +1,6 @@
 # Snippet Generator
 A small console application that generates consistent C# interfaces and implementations for typical Repository/Service patterns.
-It uses doc comments on interfaces and // inherit on implementation classes to keep code organized and DRY.
+It uses doc comments on interfaces and <mark>// inherit</mark> on implementation classes to keep code organized and DRY.
 
 ## Features
 - Repository Interface
